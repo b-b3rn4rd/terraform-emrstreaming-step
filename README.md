@@ -52,13 +52,13 @@ module "emrstreaming_step" {
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_emrstreaming"></a> [emrstreaming](#requirement\_emrstreaming) | >= 0.0.1 |
+| <a name="requirement_emrstreaming"></a> [emrstreaming](#requirement\_emrstreaming) | >= 0.0.2 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
-| <a name="provider_emrstreaming"></a> [emrstreaming](#provider\_emrstreaming) | >= 0.0.1 |
+| <a name="provider_emrstreaming"></a> [emrstreaming](#provider\_emrstreaming) | >= 0.0.2 |
 
 ## Modules
 

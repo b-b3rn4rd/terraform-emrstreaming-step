@@ -6,7 +6,7 @@ terraform {
     }
     emrstreaming = {
       source = "b-b3rn4rd/emrstreaming"
-      version = ">= 0.0.1"
+      version = ">= 0.0.2"
     }
   }
 }
